@@ -10,8 +10,8 @@
         <mxCell id="modu-6qKXMyh8paWMO9L-2" value="XGBoost&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="modu-6qKXMyh8paWMO9L-3" value="XGBoost&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="modu-6qKXMyh8paWMO9L-3" value="Random Forest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
