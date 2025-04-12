@@ -69,8 +69,8 @@
         <mxCell id="asGFxDUH6ujD8CP6-vQH-24" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="100" height="40" as="geometry" />
+        <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
