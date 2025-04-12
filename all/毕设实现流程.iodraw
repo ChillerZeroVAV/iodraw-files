@@ -16,8 +16,8 @@
         <mxCell id="asGFxDUH6ujD8CP6-vQH-3" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-5" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="100" height="40" as="geometry" />
+        <mxCell id="asGFxDUH6ujD8CP6-vQH-5" value="特征工程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
