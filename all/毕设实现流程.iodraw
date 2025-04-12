@@ -53,12 +53,18 @@
             <mxPoint x="510" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-7">
+        <mxCell id="asGFxDUH6ujD8CP6-vQH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-7" target="asGFxDUH6ujD8CP6-vQH-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="201" y="150" />
+              <mxPoint x="201" y="400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asGFxDUH6ujD8CP6-vQH-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="asGFxDUH6ujD8CP6-vQH-41">
+          <mxGeometry x="0.028" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-7" value="数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
