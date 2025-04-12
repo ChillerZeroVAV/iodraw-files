@@ -75,14 +75,13 @@
         <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-28" target="asGFxDUH6ujD8CP6-vQH-30">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="asGFxDUH6ujD8CP6-vQH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-28" value="调整模型&lt;div&gt;（改超参数、改结构等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="565" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-30" value="调整模型&lt;div&gt;（改超参数、改结构等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="565" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
