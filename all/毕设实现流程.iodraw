@@ -104,9 +104,6 @@
         <mxCell id="PQ5Wpw9KQonifaPqW2Sa-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-26" target="asGFxDUH6ujD8CP6-vQH-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQ5Wpw9KQonifaPqW2Sa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-26" target="asGFxDUH6ujD8CP6-vQH-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="948" y="115" width="100" height="40" as="geometry" />
         </mxCell>
@@ -123,9 +120,6 @@
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-35" value="测试得出结论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1285" y="115" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PQ5Wpw9KQonifaPqW2Sa-6" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="988" y="255" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
