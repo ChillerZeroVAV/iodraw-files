@@ -97,6 +97,9 @@
         <mxCell id="asGFxDUH6ujD8CP6-vQH-24" value="构建模型并训练" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="115" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PQ5Wpw9KQonifaPqW2Sa-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="asGFxDUH6ujD8CP6-vQH-26" target="asGFxDUH6ujD8CP6-vQH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="948" y="115" width="100" height="40" as="geometry" />
         </mxCell>
@@ -124,10 +127,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-28" value="调整模型&lt;div&gt;（改超参数、改结构、建立微观模型等）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1086" y="105" width="120" height="65" as="geometry" />
+          <mxGeometry x="1088" y="102.5" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-35" value="测试得出结论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1299" y="117.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="1285" y="115" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
