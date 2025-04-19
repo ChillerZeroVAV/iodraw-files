@@ -82,19 +82,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-9" value="训练多个模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="363" width="100" height="40" as="geometry" />
+          <mxGeometry x="530" y="115" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="asGFxDUH6ujD8CP6-vQH-12" target="asGFxDUH6ujD8CP6-vQH-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-12" value="评估对比选择基模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="443" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="115" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="asGFxDUH6ujD8CP6-vQH-24" target="asGFxDUH6ujD8CP6-vQH-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-24" value="构建模型并训练" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="523" width="100" height="40" as="geometry" />
+          <mxGeometry x="810" y="115" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="asGFxDUH6ujD8CP6-vQH-26" target="asGFxDUH6ujD8CP6-vQH-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
