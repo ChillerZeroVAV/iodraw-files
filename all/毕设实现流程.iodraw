@@ -97,14 +97,6 @@
         <mxCell id="asGFxDUH6ujD8CP6-vQH-24" value="构建模型并训练" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="115" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="asGFxDUH6ujD8CP6-vQH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="asGFxDUH6ujD8CP6-vQH-26" target="asGFxDUH6ujD8CP6-vQH-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="988" y="208" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1086" y="135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="asGFxDUH6ujD8CP6-vQH-26" value="验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="948" y="115" width="100" height="40" as="geometry" />
         </mxCell>
